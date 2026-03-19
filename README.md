@@ -20,11 +20,11 @@ A simple command-line calculator built using Python. It performs basic arithmeti
 
 2. Enter expressions in this format:
 
-   ```
+   
    5 + 3
    10 / 2
    7 * 4
-   ```
+   
 
 3. Available commands:
 
