@@ -51,8 +51,7 @@ def calculator():
 
         
         parsed = None
-        for op in ['+', '-', '*', '/', '%']:
-            # Handle negative numbers by checking split carefully
+        for op in ['+', '-', '*', '/', '%']
             parts = user_input.split(op)
             if len(parts) == 2:
                 try:
