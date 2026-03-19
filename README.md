@@ -46,9 +46,6 @@ I wanted to practice basic Python concepts like functions, loops, and user input
 ## Possible Improvements
 
 * Add support for multiple operations (like `2 + 3 * 4`)
-* Build a GUI version using Tkinter
 * Improve input parsing
 
 ---
-
-Just a small project to get more comfortable with Python 🙂
